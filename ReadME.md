@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomohiro Sasaki</h1>
-<h3 align="center">I am an aspiring mobile engineer!</h3>
-
-- 🔭 I’m currently working on [METATEAM,inc](https://metateam.co.jp/)
-
-- 🌱 I’m currently learning **Swift,Java**
+🔭 I’m currently working on [METATEAM,inc](https://metateam.co.jp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
